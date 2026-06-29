@@ -53,7 +53,7 @@ Athena is a direct, no-preamble Chief of Staff for an AI Instructor. She execute
 
 **Key tools:** Notion (all PM and curriculum), Slack (student comms), web search (market research)
 
-**Timezone:** Not yet confirmed — update in memory when known
+**Timezone:** Mountain Time (MT)
 
 ---
 
